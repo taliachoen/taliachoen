@@ -5,7 +5,8 @@
 ---
 
 #### About Me
-Graduate of Lev Academic Center and Full Stack Web Developer Bootcamp. Passionate about building efficient, scalable, and innovative web applications using cutting-edge technologies. I love learning new frameworks and technologies, always striving to build high-quality applications.
+
+Motivated and detail-oriented developer with a strong foundation in both front-end and back-end technologies. Graduate of the Lev Academic Center – Campus Seminar and an intensive Full Stack Web Development Bootcamp. Passionate about building clean, scalable, and user-centered web applications. Always eager to learn new technologies and frameworks, with a strong focus on delivering high-quality, maintainable code.
 
 ---
 
