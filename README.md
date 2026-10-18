@@ -1,32 +1,27 @@
-👩‍💻 Talia Cohen
+# Hi, I'm Talia Cohen 👋
 
-🌟 Software Engineer | Full Stack Developer 🌟
+**Full Stack Developer** · Node.js · React · Next.js · AI integrations
 
----
+I build full-stack web products with a focus on backend workflows: async processing of long-running tasks, third-party AI integrations, and reliable failure handling.
 
-#### About Me
+### 💼 Experience
+**Full Stack Developer @ LINKS AI** (2025 – 2026)  
+Led full-stack development of an AI media-generation platform (music, images, video) – integrating OpenAI, Claude and Suno APIs, building async job pipelines with status tracking and retries, a credit-based usage model, and Firebase-based auth and storage. Deployed on Ubuntu and Render.  
+*(Work code is private, under the company's GitHub.)*
 
-Motivated and detail-oriented developer with a strong foundation in both front-end and back-end technologies. Graduate of the Lev Academic Center – Campus Seminar and an intensive Full Stack Web Development Bootcamp. Passionate about building clean, scalable, and user-centered web applications. Always eager to learn new technologies and frameworks, with a strong focus on delivering high-quality, maintainable code.
+### 🛠 Tech Stack
+**Backend:** Node.js · Express · C# .NET · REST APIs · JWT  
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
+**Data & Cloud:** Firebase (Auth, Firestore, Storage) · MySQL · MongoDB  
+**AI:** OpenAI API · Claude API · Suno API  
+**Deployment & Tools:** Linux (Ubuntu) · Render · Git · Cursor · Claude Code  
 
----
+### 📌 Featured Projects
+- **[QueueInClick](https://github.com/taliachoen/QueueInClick)** – Appointment scheduling platform with real-time availability (React, Node.js, Express, MySQL, Socket.IO)
+- **[Meet Talia](https://github.com/taliachoen/meet-talia-CSharp)** – Portfolio with an AI job-fit analyzer (React, ASP.NET Core, OpenAI) · [Live demo](https://meet-talia-client.onrender.com/)
+- **[Task Management for Engineers](https://github.com/taliachoen/TaskManagementForEngineers)** – Layered C# / WPF desktop system (academic team project)
 
-🛠 **Skills**
+### 🎓 Education
+Practical Software Engineering Diploma – Machon Lev · Full Stack Bootcamp – Elevation
 
-**Frontend**: React, Next.js, Tailwind CSS, TypeScript  
-**Backend**: C#, C++, Node.js, Express  
-**Databases**: MongoDB, MySQL  
-**Tools**: Git, GitHub, TensorFlow  
-
----
-
-💡 **Soft Skills**  
-- **Teamwork**: Collaborating effectively in  teams to achieve shared goals  
-- **Adaptability**: Quick to learn new technologies and adapt to changing requirements  
-- **Time Management**: Prioritizing tasks to meet deadlines while maintaining quality  
-- **Problem Solving**: Identifying issues, analyzing them, and finding efficient solutions  
-- **Attention to Detail**: Ensuring accuracy and precision in all aspects of work  
-
----
-
-📧 **Reach me at**: [taliajob2@gmail.com](mailto:taliajob2@gmail.com)  
-
+📧 taliachoen1@gmail.com
