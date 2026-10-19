@@ -10,9 +10,9 @@ Led full-stack development of an AI media-generation platform (music, images, vi
 *(Work code is private, under the company's GitHub.)*
 
 ### 🛠 Tech Stack
-**Backend:** Node.js · NestJS · Express · C# .NET · REST APIs · JWT  
+**Backend:** Node.js · Express · C# .NET · REST APIs · JWT  
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
-**Data & Cloud:** Firebase (Auth, Firestore, Storage) · PostgreSQL · Prisma · MySQL · MongoDB  
+**Data & Cloud:** Firebase (Auth, Firestore, Storage) · MySQL · MongoDB  
 **AI:** OpenAI API · Claude API · Suno API  
 **Deployment & Tools:** Linux (Ubuntu) · Render · Git · Cursor · Claude Code  
 
