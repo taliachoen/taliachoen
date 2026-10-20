@@ -19,7 +19,7 @@ Led full-stack development of an AI media-generation platform (music, images, vi
 ### 📌 Featured Projects
 - **[CareerAgent](https://github.com/taliachoen/career-agent)** 🚧 – AI career assistant in progress: NestJS, Prisma/PostgreSQL, JWT auth, Next.js, tested with unit and e2e tests
 - **[QueueInClick](https://github.com/taliachoen/QueueInClick)** – Appointment scheduling platform with real-time availability (React, Node.js, Express, MySQL, Socket.IO)
-- **[Meet Talia](https://github.com/taliachoen/meet-talia-CSharp)** – Portfolio with an AI job-fit analyzer (React, ASP.NET Core, OpenAI) · [Live demo](https://meet-talia-client.onrender.com/)
+- **[Meet Talia](https://github.com/taliachoen/meet-talia-CSharp)** – Portfolio with an "Ask the AI about me" feature (React, ASP.NET Core, OpenAI) · [Live demo](https://meet-talia-client.onrender.com/)
 - **[Task Management for Engineers](https://github.com/taliachoen/TaskManagementForEngineers)** – Layered C# / WPF desktop system (academic team project)
 
 ### 🎓 Education
