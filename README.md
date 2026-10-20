@@ -6,7 +6,7 @@ I build full-stack web products with a focus on backend workflows: async process
 
 ### 💼 Experience
 **Full Stack Developer @ LINKS AI** (2025 – 2026)  
-Led full-stack development of an AI media-generation platform (music, images, video) – integrating OpenAI, Claude and Suno APIs, building async job pipelines with status tracking and retries, a credit-based usage model, and Firebase-based auth and storage. Deployed on Ubuntu and Render.  
+Led full-stack development of an AI media-generation platform (music, images, video) – integrating OpenAI, Claude and Suno APIs, building async job pipelines with status tracking and retries, a credit-based usage model, and Firebase-based auth and storage. Released updates to production with PM2 and Render.  
 *(Work code is private, under the company's GitHub.)*
 
 ### 🛠 Tech Stack
@@ -14,7 +14,7 @@ Led full-stack development of an AI media-generation platform (music, images, vi
 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
 **Data & Cloud:** Firebase (Auth, Firestore, Storage) · MySQL · MongoDB  
 **AI:** OpenAI API · Claude API · Suno API  
-**Deployment & Tools:** Linux (Ubuntu) · Render · Git · Cursor · Claude Code  
+**Deployment & Tools:** Render · PM2 · Git · Cursor · Claude Code  
 
 ### 📌 Featured Projects
 - **[CareerAgent](https://github.com/taliachoen/career-agent)** 🚧 – AI career assistant in progress: NestJS, Prisma/PostgreSQL, JWT auth, Next.js, tested with unit and e2e tests
